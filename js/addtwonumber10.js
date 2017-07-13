@@ -37,7 +37,7 @@ for (var i=0;i<k.length;i++)
 	
 	concat1=concat1 + '<li style="display:inline">' + k[i] +'</li>';
 	
-	if (i==1){
+	if (i==2){
 	
 	concat1=concat1+"<br>"
 	
